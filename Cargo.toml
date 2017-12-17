@@ -18,7 +18,7 @@ name = "freetype"
 
 bitflags = "1.0.0"
 libc = "0.2.1"
-freetype-sys = "0.6.0"
+servo-freetype-sys = "4.0.3"
 
 [dev-dependencies]
 
